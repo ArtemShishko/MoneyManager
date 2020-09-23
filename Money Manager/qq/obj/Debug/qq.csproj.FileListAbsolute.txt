@@ -1,0 +1,169 @@
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\qq.exe.config
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\qq.exe
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\qq.pdb
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\MaterialDesignColors.dll
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\MaterialDesignColors.pdb
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq.csprojAssemblyReference.cache
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\MainWindow.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\App.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq_MarkupCompile.cache
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq_MarkupCompile.lref
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\MainWindow.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq.g.resources
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq.Properties.Resources.resources
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq.csproj.GenerateResource.cache
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq.csproj.CopyComplete
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq.exe
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\qq.pdb
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\App.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHome.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHome.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlAddTransaction.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlAddTransaction.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\LoginWindow.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\LoginWindow.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlLogin.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlLogin.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlReg.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlReg.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlChar.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlChar.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHelp.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHelp.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHelpAboutHome.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHelpAboutHome.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHelpAboutChart.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHelpAboutChart.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlWallet.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlWallet.baml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlTransactionInfo.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlTransactionInfo.baml
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\EntityFramework.dll
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\EntityFramework.xml
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlUserInfo.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlUserInfo.baml
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\LiveCharts.dll
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\LiveCharts.pdb
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\LiveCharts.xml
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\NotePad.by\source\repos\qq\qq\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHelpAboutWallet.g.cs
+C:\Users\NotePad.by\source\repos\qq\qq\obj\Debug\UserControlHelpAboutWallet.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\qq.exe.config
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\qq.exe
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\qq.pdb
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\EntityFramework.dll
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\EntityFramework.SqlServer.dll
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.dll
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.Wpf.dll
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignColors.dll
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\EntityFramework.xml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\EntityFramework.SqlServer.xml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.pdb
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.xml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.Wpf.pdb
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.Wpf.xml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignColors.pdb
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq.csprojAssemblyReference.cache
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\LoginWindow.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\MainWindow.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlAddTransaction.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlChar.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelp.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutChart.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutHome.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutWallet.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHome.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlLogin.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlReg.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlTransactionInfo.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlUserInfo.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlWallet.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\App.g.cs
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq_MarkupCompile.cache
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq_MarkupCompile.lref
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\App.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\LoginWindow.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\MainWindow.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlAddTransaction.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlChar.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelp.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutChart.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutHome.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutWallet.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlHome.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlLogin.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlReg.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlTransactionInfo.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlUserInfo.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\UserControlWallet.baml
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq.g.resources
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq.Properties.Resources.resources
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq.csproj.GenerateResource.cache
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq.csproj.CopyComplete
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq.exe
+D:\artik\sharaga\3 kurs\Проект(moneymanager)\Money Manager\qq\obj\Debug\qq.pdb
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\qq.exe.config
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\qq.exe
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\qq.pdb
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.dll
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.Wpf.dll
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignColors.dll
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.pdb
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.xml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.Wpf.pdb
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\LiveCharts.Wpf.xml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignColors.pdb
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq.csprojAssemblyReference.cache
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\LoginWindow.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\MainWindow.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlAddTransaction.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlChar.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelp.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutChart.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutHome.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutWallet.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHome.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlLogin.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlReg.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlTransactionInfo.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlUserInfo.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlWallet.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\App.g.cs
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq_MarkupCompile.cache
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq_MarkupCompile.lref
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\App.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\LoginWindow.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\MainWindow.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlAddTransaction.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlChar.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelp.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutChart.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutHome.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHelpAboutWallet.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlHome.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlLogin.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlReg.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlTransactionInfo.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlUserInfo.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\UserControlWallet.baml
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq.g.resources
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq.Properties.Resources.resources
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq.csproj.GenerateResource.cache
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq.csproj.CopyComplete
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq.exe
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\obj\Debug\qq.pdb
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\Dapper.dll
+D:\artik\sharaga\3 kurs\qq(moneymanager)\Money Manager\qq\bin\Debug\Dapper.xml

@@ -1,0 +1,100 @@
+﻿<UserControl x:Class="qq.UserControlWallet"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:qq"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             d:DesignHeight="540" d:DesignWidth="800">
+    <Grid>
+        <!--//<DataGrid x:Name="datagrid">
+        </DataGrid>-->
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Rectangle Height="250" Margin="10" Fill="#FF022D5F" RadiusX="5" RadiusY="5" />
+            <Grid Width="70" Height="100" Background="#FF00142B" HorizontalAlignment="Left"
+                  VerticalAlignment="Top" Margin="50 10">
+                <Grid.Effect>
+                    <DropShadowEffect Color="#FF00142B" BlurRadius="20"/>
+                </Grid.Effect>
+                <materialDesign:PackIcon Kind="WalletOutline" Height="40" Width="40" 
+                                         VerticalAlignment="Center" HorizontalAlignment="Center"
+                                         Foreground="WhiteSmoke"/>
+            </Grid>
+            <TextBlock Text="Main wallet" HorizontalAlignment="Right" FontSize="42" Foreground="WhiteSmoke"
+                       Margin="30" VerticalAlignment="Top"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Balance:" Foreground="WhiteSmoke" FontSize="62" HorizontalAlignment="Left"
+                       VerticalAlignment="Bottom" Margin="40"/>
+                <TextBox Name="txtBalance" Margin="-20 30" FontSize="62" Text="12330" VerticalAlignment="Bottom"
+                           HorizontalAlignment="Left" Foreground="WhiteSmoke" IsReadOnly="True"/>
+               
+            </StackPanel>
+            <ListView VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="40 40"
+                          Foreground="WhiteSmoke" Name="lvEdit" SelectionChanged="lvEdit_SelectionChanged">
+                <ListViewItem>
+                    <materialDesign:PackIcon Kind="CheckBold" Height="50" Width="50" />
+                </ListViewItem>
+                <ListViewItem>
+                    <materialDesign:PackIcon Kind="Pen" Height="50" Width="50" />
+                </ListViewItem>
+
+
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+            </ListView>
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <Rectangle Height="250" Margin="10" Fill="#FF00142B" RadiusX="5" RadiusY="5" />
+            <Grid Width="70" Height="100" Background="#FF022D5F" HorizontalAlignment="Left"
+                  VerticalAlignment="Top" Margin="50 10">
+                <Grid.Effect>
+                    <DropShadowEffect Color="#FF022D5F" BlurRadius="20"/>
+                </Grid.Effect>
+                <materialDesign:PackIcon Kind="WalletTravel" Height="40" Width="40" 
+                                         VerticalAlignment="Center" HorizontalAlignment="Center"
+                                         Foreground="WhiteSmoke"/>
+            </Grid>
+            <TextBlock Text="Other wallet" HorizontalAlignment="Right" FontSize="42" Foreground="WhiteSmoke"
+                       Margin="30" VerticalAlignment="Top"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Balance:" Foreground="WhiteSmoke" FontSize="62" HorizontalAlignment="Left"
+                       VerticalAlignment="Bottom" Margin="40"/>
+                <TextBox Name="txtOtherBalance" Margin="-20 30" FontSize="62" Text="12330" VerticalAlignment="Bottom"
+                           HorizontalAlignment="Left" Foreground="WhiteSmoke" IsReadOnly="True"/>
+            </StackPanel>
+            <ListView VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="40 40"
+                          Foreground="WhiteSmoke" Name="otherEdit" SelectionChanged="otherEdit_SelectionChanged">
+                <ListViewItem>
+                    <materialDesign:PackIcon Kind="CheckBold" Height="50" Width="50" />
+                </ListViewItem>
+                <ListViewItem>
+                    <materialDesign:PackIcon Kind="Pen" Height="50" Width="50" />
+                </ListViewItem>
+                
+
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+            </ListView>
+        </Grid>
+         
+    </Grid>
+</UserControl>

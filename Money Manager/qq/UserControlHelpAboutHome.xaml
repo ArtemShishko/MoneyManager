@@ -1,0 +1,46 @@
+﻿<UserControl x:Class="qq.UserControlHelpAboutHome"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:qq"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d" 
+             d:DesignHeight="470" d:DesignWidth="800">
+    <Grid x:Name="gridHome">
+        <ScrollViewer Style="{DynamicResource MaterialDesignScrollViewer}">
+            <TextBlock TextWrapping="Wrap" FontSize="32" Margin="20">
+                Home. There you can make transcations and see all transactions you made.
+                <Image Source="HelpImages\home.png" Margin="10" Width="600" />
+                <TextBlock Margin="10" TextWrapping="Wrap">
+                    You can press on any transaction you made to see the information about it.
+                    Also you can change it, or delete, as you want.
+                </TextBlock>
+                <Image Source="HelpImages\TransInfo.png" Margin="10" Width="600" />
+                <TextBlock Margin="10" TextWrapping="Wrap">
+                    To make a transaction you can click on a button "Add" that looks like usual Add button.
+                </TextBlock>
+                <Image Source="HelpImages\Addbutt.png" Width="50" />
+                <TextBlock TextWrapping="Wrap" Margin="10">
+                     After you clicked, you get into another page where you can choose what transaction
+                    you want to add. There is 2 pages named Expense and Income
+                </TextBlock>
+                <Image Source="HelpImages\expense.png" Margin="10" />
+                <TextBlock TextWrapping="Wrap" Margin="10">
+                    In Expense, you need to fulfill the fields and click on button "Save an expense" to make an expense.
+                </TextBlock>
+                <Image Source="HelpImages\Income.png" Margin="10" />
+                <TextBlock Margin="10" TextWrapping="Wrap">
+                    In Income, you need to do the same things as for the Expense. 
+                </TextBlock>
+            </TextBlock>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
